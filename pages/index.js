@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
             <section className={utilStyles.headingMd}>
                 <p>
                     Hola, soy Martín Santa Clara. Programador entusiasta
-                    aspirando a desarrollador web.
+                    aspirando a desarrollador web. Fullstack NextJs
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like
